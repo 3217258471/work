@@ -1265,3 +1265,6 @@ git branch -d feat/n8n-001-plan-tasks
 3. 完整错误输出 / 截图
 
 中间随时可以暂停，明天接着跑——`docker compose ps` 和 `git status` 是断点恢复入口。
+
+1111111
+
